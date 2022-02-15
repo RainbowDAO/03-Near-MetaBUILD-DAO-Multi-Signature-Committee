@@ -21,7 +21,7 @@ test-network:aurora
 
 ```bash
 git clone https://github.com/RainbowDAO/03-Near-MetaBUILD-DAO-Multi-Signature-Committee.git
-cd 03-Near-MetaBUILD-DAO-Multi-Signature-Committee/
+cd 03-Near-MetaBUILD-DAO-Multi-Signature-Committee/Solidity-version-contract-for-Aurora/
 npm install
 ```
 
@@ -30,7 +30,6 @@ You may need 1 ~ 3 ETH in your wallet.
 
 
 ## **Compile  Contracts**
-```cd Solidity-version-contract-for-Aurora```
 
 ```truffle compile```
 ## **Deploy  Contracts**
